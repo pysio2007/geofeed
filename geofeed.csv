@@ -10,7 +10,7 @@
 2a14:67c1:b103::/48,CN,,Guangzhou,
 2a14:67c1:b104::/48,HK,,Hong Kong,
 2a14:67c1:b105::/48,CN,,Shenzhen,
-2a14:67c1:b107::/48,HK,,Hong Kong,
+2a14:67c1:b107::/48,TW,,Taipei,
 2a14:67c1:b130::/48,DE,HE,Frankfurt,
 2a14:7581:3100::/40,US,,,
 2a14:7581:3101::/48,CN,,Chengdu,
@@ -22,3 +22,4 @@
 2001:678:120::/48,HK,,Hong Kong,
 2a14:67c1:b140::/48,CN,,Chengdu,
 2a14:7583:f52a::/48,TW,,Taipei,
+49.213.62.0/24,TW,,Taipei,
